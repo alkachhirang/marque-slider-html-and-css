@@ -1,4 +1,7 @@
    /*----------------------------marque-slider------------------------- */
+   .fs_48 {
+       font-size: 48px;
+   }
 
    .slider-container {
        overflow: hidden;
